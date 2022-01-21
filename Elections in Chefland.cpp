@@ -38,10 +38,6 @@ int main()
             cout << "NOTA"<<endl;
         }
 
-
     }
-
-
-
     return 0;
 }
